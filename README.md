@@ -1,1 +1,1 @@
-Scripts and projects about supervised learning in the master of artificial intelligence at VIU
+Scripts and projects about algorithms for optimization in the master of artificial intelligence at VIU
